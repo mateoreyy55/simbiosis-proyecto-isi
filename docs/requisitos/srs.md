@@ -268,6 +268,9 @@ enlazar a los términos de esta sección, pero no los definirá de nuevo.
 
 | Término | Definición en Proyecto Simbiosis | Fuente |
 | --- | --- | --- |
+|Nutricionista| profesional acreditado, común para médicos y nutricionistas, que pide publicar y validar recetas|A3 s1.2, s1.3 y 3|
+|Acreditación personal| Procedimiento por el que una persona demuestra su condición profesional para actuar como nutricionista| A3 s1.3|
+|Receta aceptada| receta adecuada al perfil, las alergias o las restricciones alimentarias de un paciente.| DVA s1.1 y 2.1 A3 s3|
 
 ## 10. Modelos de análisis
 
