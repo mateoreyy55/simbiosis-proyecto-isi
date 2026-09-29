@@ -271,6 +271,9 @@ enlazar a los términos de esta sección, pero no los definirá de nuevo.
 |Nutricionista| profesional acreditado, común para médicos y nutricionistas, que pide publicar y validar recetas|A3 s1.2, s1.3 y 3|
 |Acreditación personal| Procedimiento por el que una persona demuestra su condición profesional para actuar como nutricionista| A3 s1.3|
 |Receta aceptada| receta adecuada al perfil, las alergias o las restricciones alimentarias de un paciente.| DVA s1.1 y 2.1 A3 s3|
+|Cuidadores |familiares o profesionales que asisten a los pacientes en la gestión de su dieta, actuando como usuarios secundarios que buscan y administran recetas en nombre de los pacientes| DVA s3.1|
+
+
 
 ## 10. Modelos de análisis
 
