@@ -42,6 +42,8 @@ Mantén los mismos nombres en las tablas, los diagramas y las descripciones.
 Registra los casos que aparecen en el modelo. Asigna a cada caso un identificador estable. Escribe el nombre con un verbo y un objeto. Resume el objetivo sin describir todos sus pasos.
 
 | Identificador | Nombre | Objetivo | Participantes |
+
+
 | UC-05 | Gestionar perfil | Gestionar los datos personales | Actor principal: Usuario registrado (No se identifica actor de apoyo) |
 
 [Indica los actores que participan. Si procede, distingue el actor principal, que busca alcanzar el objetivo del caso de uso y normalmente inicia la interacción, de los actores de apoyo, que proporcionan servicios o información al sistema.]
