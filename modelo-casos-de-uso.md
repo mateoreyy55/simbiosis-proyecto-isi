@@ -45,6 +45,8 @@ Registra los casos que aparecen en el modelo. Asigna a cada caso un identificado
 
 
 | UC-05 | Gestionar perfil | Gestionar los datos personales | Actor principal: Usuario registrado (No se identifica actor de apoyo) |
+| UC-01 | Gestionar registro local | Gestionar condiciones de perfil| Cuidador: Usuario registrado|
+| UC-02| Gestionar ayuda y bienvenida | Gestionar las funciones seleccionadas| Coordinador: Usuario registrado|
 
 [Indica los actores que participan. Si procede, distingue el actor principal, que busca alcanzar el objetivo del caso de uso y normalmente inicia la interacción, de los actores de apoyo, que proporcionan servicios o información al sistema.]
 
